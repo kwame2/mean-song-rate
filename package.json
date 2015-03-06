@@ -1,0 +1,25 @@
+{
+  "name": "mean-song-rate",
+  "version": "1.0.0",
+  "description": "sempre provare......",
+  "dependencies": {
+		"mongoose": "~3.6.14",
+		"express": "~4.0.0"
+	},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwame2/mean-song-rate.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Robert Togbé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwame2/mean-song-rate/issues"
+  },
+  "homepage": "https://github.com/kwame2/mean-song-rate"
+}
