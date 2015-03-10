@@ -1,0 +1,16 @@
+{
+	"name": "mean-song-rate",
+	"version": "0.0.2",
+	"dependencies": {
+		"angular": "latest",
+		"angular-resource": "latest",
+		"bootstrap": "latest",
+		"jquery": "latest",
+		"lodash": "latest",
+		"underscore.string": "latest",
+		"font-awesome": "latest"
+	},
+	"devDependencies": {
+		"angular-mocks": "latest"
+	}
+}
